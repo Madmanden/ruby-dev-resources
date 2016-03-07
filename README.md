@@ -22,6 +22,7 @@ This is a growing, organic project, so your pull requests are welcome! :smile:
   * [Codecademy](https://codecademy.com) - Fantastic resource for free interactive tutorials on Ruby, Rails, JavaScript, HTML, CSS, Git and more
   * [Codeschool](https://codeschool.com) - Has free interactive tutorials as well as paid ones
   * [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) - Learn Ruby in 100 Minutes
+
 #### Paid:
   * [Pragmatic Studio](https://pragmaticstudio.com) - An awesome resource for very high quality Ruby and Rails courses. Highly recommended!
 
