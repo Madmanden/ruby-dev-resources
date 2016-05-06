@@ -64,7 +64,3 @@ This is a growing, organic project, so your pull requests are welcome! :smile:
   * [Ruby Doc](http://ruby-doc.org/) - Help and documentation for the Ruby programming language
   * [Rails API](http://api.rubyonrails.org/) - Ruby on Rails API documentation
   * [Rails Guides](http://guides.rubyonrails.org/) - Ruby on Rails guides
-
-
-# The End
-Remember you can make a pull request to contribute anytime. :smile:
